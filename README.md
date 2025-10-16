@@ -2,4 +2,5 @@
 ## 1. 可行性 - 有人做过吗？
 ### 搜索关键词：paper matching
 1. Chain-of-Factors Paper-Reviewer Matching
+   “该领域之前的努力考虑了各种因素来评估审稿人的专业知识与论文的相关性，例如论文与审稿人以前的作品之间的语义相似性、共同主题和引用联系”
 

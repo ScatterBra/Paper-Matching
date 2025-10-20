@@ -11,6 +11,6 @@
 ## 3. 相关资源
 向量数据库：https://www.trychroma.com/
 
-前端：https://www.gradio.app/用这个做前端
+前端：https://www.gradio.app/
 
 

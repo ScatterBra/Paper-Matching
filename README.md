@@ -19,6 +19,7 @@ https://xcnv1jbqkxlg.feishu.cn/docx/YS6ldbrWwoFWkCxWB5ncSNxbn5d?openbrd=1&doc_ap
 3. 数据库 (10.20)
 4. 前端 (10.21)
 5. 训练embedding（？）
+6. 扩大数据库
 
 ## 5. demo
 https://huggingface.co/spaces/SkatterBra/paper_matching

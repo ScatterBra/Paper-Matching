@@ -14,9 +14,10 @@ https://xcnv1jbqkxlg.feishu.cn/docx/YS6ldbrWwoFWkCxWB5ncSNxbn5d?openbrd=1&doc_ap
 前端：https://www.gradio.app/
 
 ## 4. 时间线
-1. embedding
+1. embedding（现成）
 2. match
 3. 数据库
 4. 前端
+5. 训练embedding（？）
 
 

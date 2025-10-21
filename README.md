@@ -13,10 +13,10 @@ https://xcnv1jbqkxlg.feishu.cn/docx/YS6ldbrWwoFWkCxWB5ncSNxbn5d?openbrd=1&doc_ap
 
 前端：https://www.gradio.app/
 
-## 4. 目标
-1. 后续引用链条与研究方向分支（派系）
-2. 可视化
-3. podcast
-4. coze（？）
+## 4. 时间线
+1. embedding
+2. match
+3. 数据库
+4. 前端
 
 

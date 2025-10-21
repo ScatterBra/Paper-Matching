@@ -20,4 +20,7 @@ https://xcnv1jbqkxlg.feishu.cn/docx/YS6ldbrWwoFWkCxWB5ncSNxbn5d?openbrd=1&doc_ap
 4. 前端
 5. 训练embedding（？）
 
+## 5. demo
+https://huggingface.co/spaces/SkatterBra/paper_matching
+
 
